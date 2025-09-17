@@ -1,0 +1,104 @@
+price_per_100g,price_per_100g_protein,brand,protein_source,protein_type,protein_complexity,organic_true,gmofree_true
+1.28,1.64,Myprotein,Plant-based,Rice,Single source,False,False
+1.45,1.91,ProteinWorks,Plant-based,Pea,Single source,False,False
+1.95,2.17,Myprotein,Plant-based,Soy,Single source,False,False
+1.25,2.19,Myprotein,Unknown,Protein Blend (Unspecified),Unknown,False,False
+2.0,2.35,Bulk,Plant-based,Soy,Single source,False,False
+2.0,2.5,Bulk,Plant-based,Rice,Single source,False,False
+2.08,2.6,Myprotein,Plant-based,Pea,Single source,False,False
+1.85,2.72,PhD Nutrition,Animal-based,Whey,Single source,False,False
+1.8,3.05,PhD Nutrition,Animal-based,"Milk, Whey",Blend,False,False
+2.66,3.09,ProteinWorks,Plant-based,Soy,Single source,False,False
+2.56,3.12,Myprotein,Animal-based,Casein,Single source,False,False
+2.56,3.16,Myprotein,Animal-based,Casein,Single source,False,False
+2.56,3.16,Myprotein,Animal-based,Casein,Single source,False,False
+3.2,3.3,Bulk,Animal-based,Beef,Single source,False,False
+2.88,3.47,Myprotein,Animal-based,Whey,Single source,False,False
+3.0,3.49,Bulk,Animal-based,Casein,Single source,False,False
+2.7,3.75,Axe and Sledge,Animal-based,Whey,Single source,False,False
+3.08,3.76,Myprotein,Animal-based,Whey,Single source,False,False
+2.78,3.92,Myprotein,Plant-based,Plant Blend,Blend,False,False
+3.1,3.97,Bulk,Animal-based,"Milk, Whey, Egg",Blend,False,False
+2.0,4.0,Bulk,Plant-based,Hemp,Single source,False,False
+2.94,4.08,Bulk,Plant-based,Plant Blend,Blend,False,True
+2.78,4.09,PhD Nutrition,Animal-based,Whey,Single source,False,True
+3.37,4.16,Myprotein,Animal-based,"Milk, Whey, Egg, Casein",Blend,False,False
+3.02,4.19,PhD Nutrition,Plant-based,Plant Blend,Blend,False,True
+3.81,4.23,Myprotein,Animal-based,Whey,Single source,False,False
+3.13,4.23,Optimum Nutrition,Animal-based,Whey,Single source,False,False
+3.2,4.27,Bulk,Animal-based,"Milk, Whey, Egg",Blend,False,False
+2.78,4.34,RedCon1,Mixed,"Salmon, Beef, Rice, Pea",Blend,False,False
+3.01,4.36,RedCon1,Mixed,"Salmon, Beef, Rice, Pea",Blend,False,False
+3.92,4.4,ProteinWorks,Plant-based,Plant Blend,Blend,False,False
+3.86,4.49,PhD Nutrition,Plant-based,Plant Blend,Blend,False,True
+3.6,4.56,PhD Nutrition,Plant-based,Plant Blend,Blend,False,False
+3.38,4.83,Bucked Up,Animal-based,Whey,Single source,False,False
+3.8,4.94,Bulk,Animal-based,Whey,Single source,False,False
+4.02,5.02,Ascent Protein,Animal-based,Whey,Single source,False,False
+2.91,5.02,True Athlete,Animal-based,Whey,Single source,False,False
+4.02,5.02,Ascent Protein,Animal-based,Whey,Single source,False,False
+3.1,5.08,PhD Nutrition,Animal-based,"Milk, Whey, Casein",Blend,False,False
+3.76,5.08,Optimum Nutrition,Animal-based,Whey,Single source,False,False
+3.0,5.17,Bulk,Animal-based,Whey,Single source,False,False
+3.8,5.28,Bulk,Animal-based,Whey,Single source,False,False
+3.8,5.28,ProteinWorks,Plant-based,Plant Blend,Blend,False,False
+2.99,5.44,Kaged Muscle,Animal-based,Casein,Single source,False,True
+4.53,5.46,ProteinWorks,Animal-based,Whey,Single source,False,False
+3.58,5.51,plnt,Plant-based,Plant Blend,Blend,True,False
+3.37,5.62,plnt,Plant-based,Plant Blend,Blend,True,False
+3.15,5.63,Bulk,Animal-based,"Milk, Whey",Blend,False,False
+4.39,5.63,Isopure,Animal-based,Whey,Single source,False,False
+4.29,5.64,PEScience,Animal-based,Whey,Single source,False,False
+4.27,5.69,Kaged Muscle,Animal-based,Whey,Single source,False,False
+2.99,5.75,Kaged Muscle,Animal-based,Casein,Single source,False,True
+4.74,5.93,BodyTech,Animal-based,Whey,Single source,False,False
+4.64,6.03,Jay Robb Enterprises,Animal-based,Whey,Single source,False,False
+5.13,6.04,ProteinWorks,Plant-based,Plant Blend,Blend,True,False
+3.5,6.14,plnt,Plant-based,Pea,Single source,True,False
+3.55,6.23,BodyTech,Animal-based,Casein,Single source,False,False
+5.07,6.26,Bulk,Animal-based,Whey,Single source,False,False
+3.45,6.39,Garden of Life,Animal-based,Salmon,Single source,True,True
+4.47,6.48,Arms Race Nutrition,Animal-based,Whey,Single source,False,True
+5.21,6.51,ProteinWorks,Animal-based,Casein,Single source,False,False
+4.42,6.6,Isopure,Animal-based,Whey,Single source,True,False
+5.8,6.67,Bulk,Animal-based,Whey,Single source,False,False
+4.02,6.7,SunWarrior,Plant-based,Plant Blend,Blend,True,False
+5.5,6.88,Bulk,Animal-based,Whey,Single source,False,True
+4.17,6.95,Bare Performance Nutrition,Animal-based,Whey,Single source,False,False
+5.72,7.06,Bulk,Animal-based,Casein,Single source,False,False
+5.53,7.09,ProteinWorks,Animal-based,Whey,Single source,False,False
+5.8,7.16,Bulk,Animal-based,Whey,Single source,False,False
+4.11,7.21,Blessed,Plant-based,Pea,Single source,False,False
+5.79,7.24,PhD Nutrition,Animal-based,Whey,Single source,False,True
+5.42,7.32,Myprotein,Animal-based,Whey,Single source,False,False
+5.42,7.32,Myprotein,Animal-based,Whey,Single source,False,False
+5.96,7.36,RAW,Unknown,Protein Blend (Unspecified),Unknown,False,False
+6.67,7.49,ProteinWorks,Animal-based,Whey,Single source,False,False
+5.42,7.53,SunWarrior,Plant-based,Plant Blend,Blend,True,False
+6.54,7.6,Myprotein,Animal-based,Whey,Single source,False,False
+7.1,7.63,Isopure,Animal-based,Whey,Single source,False,False
+7.5,7.73,Bulk,Animal-based,Whey,Single source,False,False
+3.88,7.76,PhD Nutrition,Plant-based,Pea,Single source,True,False
+6.04,7.84,ProteinWorks,Animal-based,Whey,Single source,False,False
+6.4,7.9,Bulk,Animal-based,Whey,Single source,False,False
+5.0,7.94,Bulk,Plant-based,Spirulina,Single source,False,False
+4.7,7.97,Garden of Life,Plant-based,Plant Blend,Blend,True,False
+6.26,8.24,JYM Supplement Science,Animal-based,Whey,Single source,False,False
+5.63,8.28,plnt,Plant-based,Plant Blend,Blend,False,False
+5.43,8.35,Natreve,Plant-based,Plant Blend,Blend,True,False
+6.04,8.63,ProteinWorks,Animal-based,Whey,Single source,False,False
+5.03,8.67,Core Nutritionals,Animal-based,"Milk, Whey, Casein",Blend,False,False
+4.95,8.68,Optimum Nutrition,Animal-based,Casein,Single source,False,False
+6.2,8.99,Garden of Life,Animal-based,Whey,Single source,True,False
+6.84,9.5,Form Nutrition,Plant-based,Plant Blend,Blend,True,False
+5.88,9.8,Ambrosia Collective,Plant-based,Plant Blend,Blend,True,False
+5.95,9.92,Ambrosia Collective,Plant-based,Plant Blend,Blend,True,False
+7.15,9.93,ProteinWorks,Mixed,"Whey, Soy, Pea",Blend,False,False
+5.17,10.34,Onnit Labs,Plant-based,Plant Blend,Blend,False,False
+6.09,10.5,Truvani,Plant-based,Plant Blend,Blend,True,False
+8.4,10.91,Bulk,Animal-based,Whey,Single source,True,False
+8.72,11.32,ProteinWorks,Animal-based,Egg,Single source,False,False
+6.43,11.69,Om Organic Mushrooms,Plant-based,Plant Blend,Blend,True,False
+9.54,11.92,ProteinWorks,Animal-based,Whey,Single source,False,False
+7.15,13.49,SunWarrior,Plant-based,Plant Blend,Blend,True,False
+27.6,34.5,Bulk,Animal-based,Milk,Single source,False,False

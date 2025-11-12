@@ -10,8 +10,8 @@ As a person who is passionate about fitness, I consume protein powder almost eve
 ---
 
 ## 📊 Data
-- **Source:** [https://muchproteins.com/]  
-- **Size:** ~[103 products] across [30 brands]  
+- **Source:** https://muchproteins.com/  
+- **Size:** ~103 products across 30 brands 
 - **Features:**  
   - Brand  
   - Product name  
@@ -32,7 +32,7 @@ Data was cleaned for duplicates, standardized units, and missing values.
 
 ## 🛠️ Methodology & Tools
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, [others if used]  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Workflow:**  
   1. Data collection & cleaning  
   2. Exploratory analysis & visualization
